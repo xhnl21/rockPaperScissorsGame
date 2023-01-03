@@ -5,4 +5,5 @@ Piedra, papel y tijeras
 # FrameWork Vue3JS
 # Mysql
 # Sokect.IO
+# Javascript
 # Bootstrap
