@@ -1,7 +1,7 @@
 # rockPaperScissorsGame
 Piedra, papel y tijeras
 
-# FrameWork Laravel
+# FrameWork Laravel (PHP)
 # Mysql
 # Javascript
 # NodeJS
