@@ -3,6 +3,7 @@ Piedra, papel y tijeras
 
 # FrameWork Laravel
 # Mysql
-# Sokect.IO
 # Javascript
+# NodeJS
+# Sokect.IO
 # Bootstrap
