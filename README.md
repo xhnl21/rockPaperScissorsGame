@@ -1,10 +1,10 @@
 # rockPaperScissorsGame
 Piedra, papel y tijeras
 
-# FrameWork Laravel
-# FrameWork Vue3JS
+# FrameWork Laravel (PHP)
 # Mysql
-# Sokect.IO
 # Javascript
+# NodeJS
+# Sokect.IO
 # Bootstrap
 ## Default Port:3308, custom port
